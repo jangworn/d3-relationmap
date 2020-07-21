@@ -1,0 +1,437 @@
+{
+    "data": {
+        "nodes": [
+            {
+                "id": "1",
+                "label": "成龙(元楼)",
+                "title": "成龙",
+                "size": 35,
+                "font": {
+                    "vadjust": -50,
+                    "color": "#fff"
+                },
+                "color": "#6c757d",
+                "index": 0
+            },
+            {
+                "id": "2",
+                "label": "洪金宝(元龙)",
+                "title": "元龙",
+                "size": 35,
+                "font": {
+                    "vadjust": -50,
+                    "color": "#fff"
+                },
+                "color": "#6c757d",
+                "index": 0
+            },
+            {
+                "id": "3",
+                "label": "元泰",
+                "title": "元泰",
+                "size": 35,
+                "font": {
+                    "vadjust": -50,
+                    "color": "#fff"
+                },
+                "color": "#6c757d",
+                "index": 0
+            },
+            {
+                "id": "4",
+                "label": "元华",
+                "title": "元华",
+                "size": 35,
+                "font": {
+                    "vadjust": -50,
+                    "color": "#fff"
+                },
+                "color": "#6c757d",
+                "index": 0
+            },
+            {
+                "id": "5",
+                "label": "元彪",
+                "title": "元彪",
+                "size": 35,
+                "font": {
+                    "vadjust": -50,
+                    "color": "#fff"
+                },
+                "color": "#6c757d",
+                "index": 0
+            },
+            {
+                "id": "6",
+                "label": "元奎",
+                "title": "元奎",
+                "size": 35,
+                "font": {
+                    "vadjust": -50,
+                    "color": "#fff"
+                },
+                "color": "#6c757d",
+                "index": 0
+            },
+            {
+                "id": "7",
+                "label": "元武",
+                "title": "元武",
+                "size": 35,
+                "font": {
+                    "vadjust": -50,
+                    "color": "#fff"
+                },
+                "color": "#6c757d",
+                "index": 0
+            },
+            {
+                "id": "8",
+                "label": "于占元",
+                "title": "于占元",
+                "size": 35,
+                "font": {
+                    "vadjust": -50,
+                    "color": "#fff"
+                },
+                "color": "#6c757d",
+                "index": 0
+            },
+            {
+                "id": "9",
+                "label": "房祖名",
+                "title": "房祖名",
+                "size": 35,
+                "font": {
+                    "vadjust": -50,
+                    "color": "#fff"
+                },
+                "color": "#6c757d",
+                "index": 0
+            },
+            {
+                "id": "10",
+                "label": "邓丽君",
+                "title": "邓丽君",
+                "size": 35,
+                "font": {
+                    "vadjust": -50,
+                    "color": "#fff"
+                },
+                "color": "#6c757d",
+                "index": 0
+            },
+            {
+                "id": "11",
+                "label": "林凤娇",
+                "title": "林凤娇",
+                "size": 35,
+                "font": {
+                    "vadjust": -50,
+                    "color": "#fff"
+                },
+                "color": "#6c757d",
+                "index": 0
+            },
+            {
+                "id": "12",
+                "label": "吴绮莉",
+                "title": "吴绮莉",
+                "size": 35,
+                "font": {
+                    "vadjust": -50,
+                    "color": "#fff"
+                },
+                "color": "#6c757d",
+                "index": 0
+            },
+            {
+                "id": "13",
+                "label": "吴卓林",
+                "title": "吴卓林",
+                "size": 35,
+                "font": {
+                    "vadjust": -50,
+                    "color": "#fff"
+                },
+                "color": "#6c757d",
+                "index": 0
+            }
+           
+        ],
+        "edges": [
+            {
+                "from": "1",
+                "to": "8",
+                "label": "师徒",
+                "arrows": "to",
+                "color": {
+                    "hover": "#99CCFF",
+                    "highlight": "#99CCFF",
+                    "color": "#99CCFF"
+                },
+                "font": {
+                    "color": "#000",
+                    "align": "middle"
+                }
+            },
+            {
+                "from": "2",
+                "to": "8",
+                "label": "师徒",
+                "arrows": "to",
+                "color": {
+                    "hover": "#99CCFF",
+                    "highlight": "#99CCFF",
+                    "color": "#99CCFF"
+                },
+                "font": {
+                    "color": "#000",
+                    "align": "middle"
+                }
+            },
+            {
+                "from": "3",
+                "to": "8",
+                "label": "师徒",
+                "arrows": "to",
+                "color": {
+                    "hover": "#99CCFF",
+                    "highlight": "#99CCFF",
+                    "color": "#99CCFF"
+                },
+                "font": {
+                    "color": "#000",
+                    "align": "middle"
+                }
+            },
+            {
+                "from": "4",
+                "to": "8",
+                "label": "师徒",
+                "arrows": "to",
+                "color": {
+                    "hover": "#99CCFF",
+                    "highlight": "#99CCFF",
+                    "color": "#99CCFF"
+                },
+                "font": {
+                    "color": "#000",
+                    "align": "middle"
+                }
+            },
+            {
+                "from": "5",
+                "to": "8",
+                "label": "师徒",
+                "arrows": "to",
+                "color": {
+                    "hover": "#99CCFF",
+                    "highlight": "#99CCFF",
+                    "color": "#99CCFF"
+                },
+                "font": {
+                    "color": "#000",
+                    "align": "middle"
+                }
+            },
+            {
+                "from": "6",
+                "to": "8",
+                "label": "师徒",
+                "arrows": "to",
+                "color": {
+                    "hover": "#99CCFF",
+                    "highlight": "#99CCFF",
+                    "color": "#99CCFF"
+                },
+                "font": {
+                    "color": "#000",
+                    "align": "middle"
+                }
+            },
+            {
+                "from": "7",
+                "to": "8",
+                "label": "师徒",
+                "arrows": "to",
+                "color": {
+                    "hover": "#99CCFF",
+                    "highlight": "#99CCFF",
+                    "color": "#99CCFF"
+                },
+                "font": {
+                    "color": "#000",
+                    "align": "middle"
+                }
+            },
+            {
+                "from": "9",
+                "to": "1",
+                "label": "父子",
+                "arrows": "to",
+                "color": {
+                    "hover": "#99CCFF",
+                    "highlight": "#99CCFF",
+                    "color": "#99CCFF"
+                },
+                "font": {
+                    "color": "#000",
+                    "align": "middle"
+                }
+            },
+            {
+                "from": "10",
+                "to": "1",
+                "label": "恋人",
+                "arrows": "to",
+                "color": {
+                    "hover": "#99CCFF",
+                    "highlight": "#99CCFF",
+                    "color": "#99CCFF"
+                },
+                "font": {
+                    "color": "#000",
+                    "align": "middle"
+                }
+            },
+            {
+                "from": "11",
+                "to": "1",
+                "label": "结婚",
+                "arrows": "to",
+                "color": {
+                    "hover": "#99CCFF",
+                    "highlight": "#99CCFF",
+                    "color": "#99CCFF"
+                },
+                "font": {
+                    "color": "#000",
+                    "align": "middle"
+                }
+            },
+            {
+                "from": "12",
+                "to": "1",
+                "label": "恋人",
+                "arrows": "to",
+                "color": {
+                    "hover": "#99CCFF",
+                    "highlight": "#99CCFF",
+                    "color": "#99CCFF"
+                },
+                "font": {
+                    "color": "#000",
+                    "align": "middle"
+                }
+            },
+            {
+                "from": "13",
+                "to": "1",
+                "label": "父女",
+                "arrows": "to",
+                "color": {
+                    "hover": "#99CCFF",
+                    "highlight": "#99CCFF",
+                    "color": "#99CCFF"
+                },
+                "font": {
+                    "color": "#000",
+                    "align": "middle"
+                }
+            },
+            {
+                "from": "1",
+                "to": "2",
+                "label": "师兄弟",
+                "arrows": "to",
+                "color": {
+                    "hover": "#99CCFF",
+                    "highlight": "#99CCFF",
+                    "color": "#99CCFF"
+                },
+                "font": {
+                    "color": "#000",
+                    "align": "middle"
+                }
+            },
+            {
+                "from": "1",
+                "to": "3",
+                "label": "师兄弟",
+                "arrows": "to",
+                "color": {
+                    "hover": "#99CCFF",
+                    "highlight": "#99CCFF",
+                    "color": "#99CCFF"
+                },
+                "font": {
+                    "color": "#000",
+                    "align": "middle"
+                }
+            },
+            {
+                "from": "1",
+                "to": "4",
+                "label": "师兄弟",
+                "arrows": "to",
+                "color": {
+                    "hover": "#99CCFF",
+                    "highlight": "#99CCFF",
+                    "color": "#99CCFF"
+                },
+                "font": {
+                    "color": "#000",
+                    "align": "middle"
+                }
+            },
+            {
+                "from": "1",
+                "to": "5",
+                "label": "师兄弟",
+                "arrows": "to",
+                "color": {
+                    "hover": "#99CCFF",
+                    "highlight": "#99CCFF",
+                    "color": "#99CCFF"
+                },
+                "font": {
+                    "color": "#000",
+                    "align": "middle"
+                }
+            },
+            {
+                "from": "1",
+                "to": "6",
+                "label": "师兄弟",
+                "arrows": "to",
+                "color": {
+                    "hover": "#99CCFF",
+                    "highlight": "#99CCFF",
+                    "color": "#99CCFF"
+                },
+                "font": {
+                    "color": "#000",
+                    "align": "middle"
+                }
+            },
+            {
+                "from": "1",
+                "to": "7",
+                "label": "师兄弟",
+                "arrows": "to",
+                "color": {
+                    "hover": "#99CCFF",
+                    "highlight": "#99CCFF",
+                    "color": "#99CCFF"
+                },
+                "font": {
+                    "color": "#000",
+                    "align": "middle"
+                }
+            }
+        ]
+    },
+    "code": "200",
+    "message": ""
+}

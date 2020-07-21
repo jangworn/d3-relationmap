@@ -1,0 +1,99 @@
+html, body {
+	background: #fff;
+	padding: 0;
+	margin: 0;
+	border: 0;
+	font-size: 12px;
+	height: 100%;
+	width: 100%;
+	font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+#map{
+	width:100%;
+	height:100%;
+}
+#button_box {
+	position: absolute;
+	right: 10px;
+	bottom: 100px;
+	width: 30px;
+	height: 200px;
+	z-index: 998;
+}
+
+#button_box a,.vis-zoomIn,.vis-zoomOut{
+	display: block;
+	text-align: center;
+	margin:5px 0 0 0;
+	width:30px;
+	height:30px;
+	cursor: pointer;
+}
+.vis-zoomOut,.vis-zoomIn{
+	background-image: none!important;
+	right:6px!important;
+
+	z-index:1000
+}
+.vis-zoomOut{
+	bottom:177px!important;
+}
+.vis-zoomIn{
+	bottom:210px!important;
+}
+#button_box a img,#zoom-out  img,#zoom-in img{
+	display: block;
+	text-align: center;
+	margin:0;
+	width:30px;
+	height:30px;
+}
+#button_box .download{
+	margin-top:120px;
+}
+#button_box .glyphicon,.vis-zoomIn .glyphicon,.vis-zoomOut .glyphicon {
+	font-size: 12px;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+.vis-right,.vis-left,.vis-up,.vis-down,.vis-zoomExtends{
+	display: none!important;
+}
+
+#button_box button,.vis-zoomIn button,.vis-zoomOut button {
+	border-radius: 0;
+	padding:2px 6px;
+}
+.vis-zoomIn:active,.vis-zoomIn:hover,.vis-zoomOut:active,.vis-zoomOut:hover{
+	box-shadow: none!important;
+}
+
+
+::-webkit-scrollbar {  /* 滚动条整体部分 */
+    width:6px;
+    margin-right:2px
+}
+
+::-webkit-scrollbar:horizontal {
+    height:6px;
+    margin-bottom:2px
+}
+::-webkit-scrollbar-track {  /* 外层轨道 */
+    border-radius: 10px;
+}
+::-webkit-scrollbar-track-piece {  /*内层轨道，滚动条中间部分 */
+    background-color: #d8d5d5;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {  /* 滑块 */
+    width:6px;
+    border-radius: 5px;
+    background: rgb(160, 159, 159);
+}
+::-webkit-scrollbar-corner { /* 边角 */
+    width: 6px;
+    background-color: rgb(160, 159, 159);
+}
+::-webkit-scrollbar-thumb:hover { /* 鼠标移入滑块 */
+    background: #909090;
+}
